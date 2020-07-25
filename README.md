@@ -48,7 +48,7 @@ I’m an undergrad at Sir M. Visvesvaraya Institute Of Technology Bangalore, a f
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=dntandan&show_icons=true&theme=radical&line_height=35&count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=dntandan&show_icons=true&theme=radical&line_height=33&count_private=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dntandan&theme=radical">
 </p>
 
